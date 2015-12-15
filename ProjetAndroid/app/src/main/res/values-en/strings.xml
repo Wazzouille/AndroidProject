@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">E-night</string>
+
+    <string name="title_section1">Soirees Disponibles</string>
+    <string name="title_section2">Ajout soirees</string>
+    <string name="title_section3">Mes participations</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_soirees_disponibles">soirees_disponibles</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_soirees_disponibless">soirees_disponibless</string>
+    <string name="title_activity_description">Description</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

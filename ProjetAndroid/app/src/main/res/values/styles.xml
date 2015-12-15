@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- navigation Drawer's -->
+        <item name="homeAsUpIndicator">@drawable/ic_drawer</item>
+    </style>
+
+    <style name="Desc" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- navigation Drawer's -->
+    </style>
+
+</resources>

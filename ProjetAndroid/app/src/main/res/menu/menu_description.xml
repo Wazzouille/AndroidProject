@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.etu26132.e_night.description">
+    <item android:id="@+id/addParticipation"
+        android:title="Ajouterà vos participations"
+        android:icon="@drawable/ic_favorite_white_24dp"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item android:id="@+id/Maps"
+        android:title="Itinéraire"
+        android:icon="@drawable/ic_favorite_white_24dp"
+        android:orderInCategory="100" app:showAsAction="always" />
+</menu>
+
